@@ -1,0 +1,2 @@
+curl https://wttr.in
+grep the weather of july 24th
