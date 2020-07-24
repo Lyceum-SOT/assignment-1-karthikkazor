@@ -1,0 +1,3 @@
+#!/bin/sh
+
+echo "Hi! I'm $(karthik) and today is $(date)" > demo_file.txt
